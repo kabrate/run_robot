@@ -11,9 +11,7 @@
 
 ## 运行效果
 
-<video width="720" height="300" controls>
-<source src="run_robot.mp4" type="video/mp4">
-</video>
+![robot](./pic/run_robot.gif) 
 
 
 
