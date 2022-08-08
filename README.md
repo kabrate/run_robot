@@ -12,7 +12,7 @@
 ## 运行效果
 
 <video width="720" height="300" controls>
-<source src="robot.mp4" type="video/mp4">
+<source src="run_robot.mp4" type="video/mp4">
 </video>
 
 
