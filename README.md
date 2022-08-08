@@ -9,8 +9,11 @@
 本系统在硬件方面，以Arduino单片机为控制核心，以红外线传感器实现循迹和避障，也能也切换到蓝牙模式控制小车行动。在软件方面，利用Arduino语言进行编程，通过Arduino编程来控制小车运转。该系统在驱动方面采用L293D双桥驱动电机驱动4个直流电机实现小车运行。并且，用PWM系统调速,控制小车前进的速度。本设计具有有一定的实用价值。
 
 
-## 运行视频
-![robot](run_robot.mp4)
+## 运行效果
+
+<video width="720" height="300" controls>
+<source src="robot.mp4" type="video/mp4">
+</video>
 
 
 
