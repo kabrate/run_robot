@@ -11,7 +11,7 @@
 
 ## 运行效果
 
-![robot](./pic/run_robot.gif) 
+![robot](./pic/run_robot.jpg) 
 
 
 
